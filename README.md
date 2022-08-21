@@ -7,7 +7,9 @@
 <img height="150px" src="https://github-readme-stats.vercel.app/api?username=LeonX86" /><span>  </span><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonX86&layout=compact&langs_count=8" />
 <span>  </span>
 </div>
-
+<div align="center">
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=LeonX86" />
+</div>
 
 
 
