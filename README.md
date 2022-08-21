@@ -2,11 +2,10 @@
 
 <div align="center"><img src="https://raw.githubusercontent.com/Achuan-2/Achuan-2/main/assets/github-contribution-grid-snake.svg" ></div>
 
-
-<div align="center">
-<a href="https://github.com/bubbliiiing">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=bubbliiiing&theme=dracula&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true">
+<a href="https://github.com/LeonX86">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=LeonX86&theme=dracula&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true">
 </a>
+<div align="center">
 <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonX86&layout=compact&langs_count=8" />
 </div>
 
