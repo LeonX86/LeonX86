@@ -1,3 +1,5 @@
+<div align="center"><img src="https://raw.githubusercontent.com/Achuan-2/Achuan-2/main/assets/github-contribution-grid-snake.svg" ></div>
+
 <p align="center">
    <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Simplified+Chinese&pause=1000&color=0E77B1&width=435&lines=%E7%AB%99%E5%9C%A8%E5%89%8D%E6%B2%BF++%E6%B7%B1%E5%BA%A6%E6%80%9D%E8%80%83++%E8%B6%85%E8%B6%8A%E6%8A%80%E6%9C%AF;Hi%EF%BC%8C%E5%BE%88%E9%AB%98%E5%85%B4%E9%81%87%E8%A7%81%E4%BD%A0+%F0%9F%91%8B" alt="typing-svg">
 </p>
@@ -15,7 +17,7 @@
 <img height="125px" src="https://github-readme-stats.vercel.app/api?username=LeonX86&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><span>  </span><img height="125px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonX86&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 <span>  </span>
 </div>
-<div align="center"><img src="https://raw.githubusercontent.com/Achuan-2/Achuan-2/main/assets/github-contribution-grid-snake.svg" ></div>
+
 <!--
 **LeonX86/LeonX86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
