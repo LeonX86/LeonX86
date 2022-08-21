@@ -4,7 +4,7 @@
 
 <div align="center">
 <span>  </span>
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=LeonX86" /><span>  </span><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonX86&layout=compact&langs_count=8" />
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=LeonX86" /><span>  </span><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonX86&layout==dracula&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 <span>  </span>
 </div>
 <div align="center">
