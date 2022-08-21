@@ -4,7 +4,9 @@
 
 
 <div align="center">
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=LeonX86" />
+<a href="https://github.com/bubbliiiing">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=bubbliiiing&theme=dracula&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true">
+</a>
 <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonX86&layout=compact&langs_count=8" />
 </div>
 
