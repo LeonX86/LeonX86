@@ -8,7 +8,7 @@
 <span>  </span>
 </div>
 <div align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=LeonX86" />
+    <img height="135px"  src="https://github-readme-streak-stats.herokuapp.com/?user=LeonX86" />
 </div>
 
 
