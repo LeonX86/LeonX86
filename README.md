@@ -16,7 +16,7 @@
 ## 🐳摸鱼近况
 <div align="center">
 <span>  </span>
-<img height="125px" src="https://github-readme-stats.vercel.app/api?username=LeonX86&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><span>  </span><img height="125px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonX86" />
+<img height="125px" src="https://github-readme-stats.vercel.app/api?username=LeonX86" /><span>  </span><img height="125px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonX86" />
 <span>  </span>
 </div>
 
