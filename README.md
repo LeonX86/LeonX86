@@ -1,5 +1,10 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/LeonX86/LeonX86/main/assets/github-contribution-grid-snake.svg" >
+   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeonX86/LeonX86/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeonX86/LeonX86/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/LeonX86/LeonX86/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 </div>
 
 # Hi there 👋
