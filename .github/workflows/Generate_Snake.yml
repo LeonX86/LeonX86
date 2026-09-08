@@ -1,11 +1,16 @@
 # GitHub Action for generating a contribution graph with a snake eating your contributions.
+# Output goes to the orphan branch `profile-snake-contrib` (auto-created), so `main`
+# stays clean: no daily bot commits, fixed image URLs that never change.
 
 name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * 1" # every Monday 00:00 UTC (contribution data itself refreshes at most once a day; weekly is plenty)
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -14,20 +19,20 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      
-      - name: Generate Snake
-        uses: Platane/snk@v3
-        id: snake-gif
+
+      - name: Generate Snake (svg only, faster)
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            ./assets/github-contribution-grid-snake.svg
-            ./assets/github-contribution-grid-snake-dark.svg?palette=github-dark
-            ./assets/github-contribution-grid-snake.gif
-            ./assets/github-contribution-grid-snake-dark.gif?palette=github-dark
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push to GitHub
-        uses: stefanzweifel/git-auto-commit-action@v5
+      - name: Deploy snake files to orphan branch
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
-          commit_message: 'Generate Contribution Snake'
-          branch: main
+          branch: profile-snake-contrib
+          folder: dist
+          clean: true
+          target-folder: .
+          commit-message: 'Update contribution snake'
