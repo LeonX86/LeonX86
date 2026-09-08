@@ -34,5 +34,6 @@ jobs:
           branch: profile-snake-contrib
           folder: dist
           clean: true
+          single-commit: true   # force-replace the branch with one commit per run, so it never accumulates history
           target-folder: .
           commit-message: 'Update contribution snake'
